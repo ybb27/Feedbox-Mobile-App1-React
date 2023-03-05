@@ -1,0 +1,11 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-textinput {
+  flex: 1;
+  color: var(--dl-color-grays-gray40);
+  border-width: 0px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
